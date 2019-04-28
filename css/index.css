@@ -1,0 +1,13 @@
+
+.margin{
+    margin-bottom: 50px;
+}
+.container p{
+    margin-bottom: 20px;
+}
+.fixed{
+    table-layout: fixed;
+}
+.edit{
+    display: none;
+}
