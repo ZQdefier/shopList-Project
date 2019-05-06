@@ -8,6 +8,10 @@
 .fixed{
     table-layout: fixed;
 }
-.edit{
-    display: none;
-}
+.okBtn,.cBtn{display: none;}
+.edit .okBtn,.edit .cBtn{display: inline-block;}
+.edit .editBtn,.edit .delBtn{display:none;}
+.edit span{display: none;}
+.fixed .edit input{display:inline-block;}
+.fixed input{display: none;}
+.hidden{display: none;}
